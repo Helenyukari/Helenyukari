@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Helenyukari/Helenyukari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! Eu sou a Helen Tochetto
+Estudante do curso de Engenharia da computação na Universidade Federal de Mato Grosso do Sul. Intusiasta na área da computação, muito curiosa sobre programação e sempre buscando conhecimento e descobrindo/aprendendo sobre as perspectivas e visões que a tecnologia proporciona.
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-yukari-0494b31a9/)
+[![Univesity](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)]()
+[![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+)]()
+
+![Tochetto GitHub stats](https://github-readme-stats.vercel.app/api?username=Helenyukari&show_icons=true&theme=transparent)
+
+## O que venho aprendendo
+### Atualmente estou estudando sobre análise de dados e Bi
+Tecnologias
+<div style="display: inline_block"><br/>
+    <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+
+https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white

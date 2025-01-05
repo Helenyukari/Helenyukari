@@ -2,8 +2,6 @@
 
 
 ### Olá! Eu sou a Helen Tochetto
-Estudante do curso de Engenharia da computação na Universidade Federal de Mato Grosso do Sul. Intusiasta na área da computação, muito curiosa sobre programação e sempre buscando conhecimento e descobrindo/aprendendo sobre as perspectivas e visões que a tecnologia proporciona.
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-yukari-0494b31a9/)
 [![Univesity](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)]()

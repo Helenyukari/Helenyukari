@@ -20,3 +20,16 @@ Tecnologias
     <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+## Experiência Profissional
+
+### Estágio em Análise de Dados - Centro de Inteligência de Dados | Secretaria Executiva de Gestão, Estratégia e Municipalismo  
+**Início:** Março 2023
+
+Atuei na área de Análise de Dados em um órgão estadual, dentro da Coordenadoria de Inteligência de Dados. Durante esse período, aprendi sobre manipulação e tratamento de dados, além de participar da prototipagem de modelos de Business Intelligence (BI).  
+Além das atividades ligadas à administração pública, participei de seminários e reuniões voltadas ao alinhamento de objetivos estratégicos e indicadores, além de atender a solicitações de dados.
+
+### Ferramentas utilizadas:
+- **QLik Sense** para criação e manutenção de dados em BI.
+- **PowerPoint** e outros sistemas para geração de relatórios e apresentações.
+- **Excel**, além de arquivos **QVDs** e **XLSX** para manipulação de dados.

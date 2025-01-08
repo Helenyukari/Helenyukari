@@ -6,7 +6,7 @@ Sou uma entusiasta da computação, curiosa sobre programação e sempre buscand
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-yukari-0494b31a9/)
-[![Univesity](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)]()
+
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 )]()
 

@@ -1,27 +1,12 @@
 
 
 
-### Olá! Eu sou a Helen Tochetto
-Sou uma entusiasta da computação, curiosa sobre programação e sempre buscando aprender novas perspectivas e aplicações que a tecnologia oferece.
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-yukari-0494b31a9/)
-
-[![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-)]()
+### Prazer, sou a Helen Yukari
+Apaixonada por tecnologia e também por tudo que desperta minha curiosidade. Além da área de computação, adoro café, esportes e arte, e estou sempre em busca de aprender coisas novas em diferentes áreas. Gosto de mergulhar em assuntos que chamam minha atenção e me desafiem a ver o mundo de outras perspectivas.
 
 ![Tochetto GitHub stats](https://github-readme-stats.vercel.app/api?username=Helenyukari&show_icons=true&theme=transparent)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Helenyukari&layout=compact&theme=radical&border_radius=10&hide_border=true)](https://github.com/Helenyukari)
 
-
-## O que venho aprendendo
-### Atualmente estou estudando sobre análise de dados e Bi
-Tecnologias
-<div style="display: inline_block"><br/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
 
 ## Experiência Profissional
 
@@ -31,7 +16,17 @@ Tecnologias
 Atuei na área de Análise de Dados em um órgão estadual, dentro da Coordenadoria de Inteligência de Dados. Durante esse período, aprendi sobre manipulação e tratamento de dados, além de participar da prototipagem de modelos de Business Intelligence (BI).  
 Além das atividades ligadas à administração pública, participei de seminários e reuniões voltadas ao alinhamento de objetivos estratégicos e indicadores, além de atender a solicitações de dados.
 
-### Ferramentas utilizadas:
-- **QLik Sense** para criação e manutenção de dados em BI.
-- **PowerPoint** e outros sistemas para geração de relatórios e apresentações.
-- **Excel**, além de arquivos **QVDs** e **XLSX** para manipulação de dados.
+
+### 💻 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+| Linguagens | Bancos de Dados | Ferramentas de BI e Análise |
+|---|---|---|
+| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> | <img src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"> |
+| <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"> |
+| | | <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"> |
+
+
+---
+

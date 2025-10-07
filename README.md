@@ -11,6 +11,8 @@ Sou uma entusiasta da computação, curiosa sobre programação e sempre buscand
 )]()
 
 ![Tochetto GitHub stats](https://github-readme-stats.vercel.app/api?username=Helenyukari&show_icons=true&theme=transparent)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Helenyukari&layout=compact&theme=radical&border_radius=10&hide_border=true)](https://github.com/Helenyukari)
+
 
 ## O que venho aprendendo
 ### Atualmente estou estudando sobre análise de dados e Bi

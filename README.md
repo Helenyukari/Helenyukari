@@ -1,5 +1,5 @@
 
-<img src="eu.png" alt="ilustração de mim" width="400" align="right">
+<!-- <img src="eu.png" alt="ilustração de mim" width="400" align="right"> -->
 
 ### Prazer, sou a Helen Yukari
 Apaixonada por tecnologia e também por tudo que desperta minha curiosidade. Além da área de computação, adoro café, esportes e arte, e estou sempre em busca de aprender coisas novas em diferentes áreas. Gosto de mergulhar em assuntos que chamam minha atenção e me desafiem a ver o mundo de outras perspectivas.
